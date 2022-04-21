@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Pasta
+2. Technology
+3. Culture
